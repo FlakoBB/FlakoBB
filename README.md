@@ -9,17 +9,10 @@
 
 ### **Front-End**
 
-<img width="90" height="90" src="images/html_logo.svg" alt="HTML Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/css_logo.svg" alt="CSS Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/javascript_logo.svg" alt="JavaScript Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/sass_logo.svg" alt="SASS Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/react_logo.svg" alt="React Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/nextjs_logo1.svg" alt="Next.js Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/webpack_logo.svg" alt="Webpack Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
+<img width="90" height="90" src="images/html_logo.svg" alt="HTML Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/css_logo.svg" alt="CSS Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/javascript_logo.svg" alt="JavaScript Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/sass_logo.svg" alt="SASS Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/react_logo.svg" alt="React Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/nextjs_logo1.svg" alt="Next.js Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/webpack_logo.svg" alt="Webpack Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
 
 ### **Back-End**
-<img width="90" height="90" src="images/python_logo.svg" alt="Python Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/django_logo.svg" alt="Django Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
-<img width="90" height="90" src="images/mysql_logo.svg" alt="MySQL Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
+
+<img width="90" height="90" src="images/python_logo.svg" alt="Python Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/django_logo.svg" alt="Django Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" /><img width="90" height="90" src="images/mysql_logo.svg" alt="MySQL Logo" style="box-shadow: 0 0 5px 1px #E6ECF3; padding: 16px; border-radius: 8px; margin:0 16px 16px 0;" />
 
 ---
