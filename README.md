@@ -12,9 +12,8 @@
 
 ### **Front-End**
 
-<img src="images/html_logo.svg" alt="HTML_logo" />
+<img width="90" height="90" src="images/html_logo.svg" alt="HTML_logo" />
 
-![HTML Logo](images/html_logo.svg)
 ![CSS Logo](images/css_logo.svg)
 ![JavaScript Logo](images/javascript_logo.svg)
 ![SASS Logo](images/sass_logo.svg)
