@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #2960AB; background-color: #E6ECF3; padding: 0; border: none;">Joseph Ryan Barrera Baeza<br /><p style="font-size: 18px;">Desarrollador web Front-End</p></h1>
+<h1 align="center" style="color: #2960AB; background-color: #E6ECF3; padding: 0; border: none;">Joseph Ryan Barrera Baeza</h1>
 
 <p style="color: #E6ECF3;"><strong>Desarrollador web Front-End</strong> con experiencia en la creación de de páginas con diseño adaptable. Enfocado en el desarrollo de aplicaciones de una sola página (SPA) utilizando la librería <strong>React</strong> y su framework <strong>Next.js</strong>.</p>
 
