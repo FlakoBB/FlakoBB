@@ -1,7 +1,26 @@
-# **Joseph Ryan "Flako"**
+<link rel="stylesheet" type="text/css" href="styles/styles.css" />
 
-Soy Joseph Ryan, desarrollador web con constante actitud de aprendizaje tanto en equipo como de manera autodidacta.
+# **Joseph Ryan Barrera Baeza**
 
-Estudié hasta el quinto semestre de Ingeniería en Sistemas Computacionales; donde adquirí habilidades de manejo de base de datos y desarrollo web. Además de la facultad de trabajo colaborativo.
+**Desarrollador web Front-End** con experiencia en la creación de de páginas con diseño adaptable. Enfocado en el desarrollo de aplicaciones de una sola página (_SPA_) utilizando la librería **React** y su framework **Next.js**.
 
-En la actualidad pertenezco a OpenBootcamp; una institución educativa española enfocada en desarrollo de software, en donde estoy formando mis habilidades técnicas para especializarme cómo desarrollador FullStack.
+Orientado a convertirme en **Desarrollador FullStack** con la costruccion de aplicaciones escalables y eficaces con la utilización de **Python** y **Django**. Además, la integracion de **MySQL** para diseñar y gestionar bases de datos de manera efectiva.
+
+---
+
+## **Habilidades**
+
+### **Front-End**
+
+![HTML Logo](images/html_logo.svg)
+![CSS Logo](images/css_logo.svg)
+![JavaScript Logo](images/javascript_logo.svg)
+![SASS Logo](images/sass_logo.svg)
+![React Logo](images/react_logo.svg)
+![Next.js Logo](images/nextjs_logo1.svg)
+![Webpack Logo](images/webpack_logo.svg)
+
+### **Back-End**
+![Python Logo](images/python_logo.svg)
+![Django Logo](images/django_logo.svg)
+![MySQL Logo](images/mysql_logo.svg)
