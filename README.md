@@ -2,15 +2,17 @@
 
 <h1>Joseph Ryan Barrera Baeza</h1>
 
-**Desarrollador web Front-End** con experiencia en la creación de de páginas con diseño adaptable. Enfocado en el desarrollo de aplicaciones de una sola página (_SPA_) utilizando la librería **React** y su framework **Next.js**.
+<p>**Desarrollador web Front-End** con experiencia en la creación de de páginas con diseño adaptable. Enfocado en el desarrollo de aplicaciones de una sola página (_SPA_) utilizando la librería **React** y su framework **Next.js**.</p>
 
-Orientado a convertirme en **Desarrollador FullStack** con la costruccion de aplicaciones escalables y eficaces con la utilización de **Python** y **Django**. Además, la integracion de **MySQL** para diseñar y gestionar bases de datos de manera efectiva.
+<p>Orientado a convertirme en **Desarrollador FullStack** con la costruccion de aplicaciones escalables y eficaces con la utilización de **Python** y **Django**. Además, la integracion de **MySQL** para diseñar y gestionar bases de datos de manera efectiva.</p>
 
 ---
 
 ## **Habilidades**
 
 ### **Front-End**
+
+<img src="images/html_logo.svg" alt="HTML_logo" />
 
 ![HTML Logo](images/html_logo.svg)
 ![CSS Logo](images/css_logo.svg)
