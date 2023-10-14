@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles/styles.css" />
 
-# **Joseph Ryan Barrera Baeza**
+<h1>Joseph Ryan Barrera Baeza</h1>
 
 **Desarrollador web Front-End** con experiencia en la creación de de páginas con diseño adaptable. Enfocado en el desarrollo de aplicaciones de una sola página (_SPA_) utilizando la librería **React** y su framework **Next.js**.
 
